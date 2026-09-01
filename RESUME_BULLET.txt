@@ -1,0 +1,2 @@
+Product Experimentation & A/B Testing | Python, SQL, Statistics
+Designed and analyzed a simulated randomized product experiment evaluating a rewards feature across conversion, engagement, revenue, and guardrail metrics. Implemented SRM diagnostics, covariate adjustment, heterogeneous treatment-effect thinking, and decision-focused launch analysis.
