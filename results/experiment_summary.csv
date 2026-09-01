@@ -1,0 +1,6 @@
+metric,value
+users,30000.0
+treatment_share,0.5013
+srm_p_value,0.652470196237209
+adjusted_conversion_effect,0.0321933551907482
+adjusted_conversion_p_value,5.044950635955537e-09
